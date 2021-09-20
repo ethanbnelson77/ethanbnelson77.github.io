@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(72, 181, 240);
+    background-color: rgb(112,128,144);
     color: black;
     font-size: 15px;
     margin: 0;
@@ -9,10 +9,6 @@ body {
 #wrapper {
     width: 90%;
     margin: 0 auto;
-}
-
-h1 {
-    background-color: white;
 }
 
 h1, footer  {
