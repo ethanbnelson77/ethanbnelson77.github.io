@@ -15,3 +15,7 @@ h1, footer  {
     background-color: white;
     margin: 0;
 }
+
+img {
+    width: 90%;
+}
