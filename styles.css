@@ -4,7 +4,6 @@ body {
     font-size: 15px;
     margin: 0;
     padding: 0;
-    display: inline-block;
 }
 
 #wrapper {
@@ -24,6 +23,7 @@ img {
 ul {
     background-color: white;
     color:black;
+    display: inline-block;
 }
 
 #mozilla {
