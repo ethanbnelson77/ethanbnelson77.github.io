@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 
-h1, footer  {
+h1, h2, footer  {
     margin: 0;
     text-align: center;
 }
