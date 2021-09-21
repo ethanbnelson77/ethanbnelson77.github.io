@@ -26,6 +26,11 @@ ul {
     color:black;
 }
 
+p, a {
+    display: inline-block;
+    vertical-align: top;
+}
+
 #mozilla {
     color:lightskyblue;
 }
