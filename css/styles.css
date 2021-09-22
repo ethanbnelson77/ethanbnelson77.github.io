@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
 }
 
-#name, #portal, footer  {
+h1, #portal, footer  {
     margin: 0;
     text-align: center;
 }
