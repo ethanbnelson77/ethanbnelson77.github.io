@@ -12,16 +12,16 @@ body {
     margin: 0 auto;
 }
 
-h1, h2, footer  {
+#name, #portal, footer  {
     margin: 0;
     text-align: center;
 }
 
-img {
+#my_pic {
     width: 90%;
 }
 
-ul {
+#assignments {
     background-color: white;
     color:black;
     list-style-type: none;
