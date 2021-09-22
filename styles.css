@@ -27,7 +27,7 @@ body {
     list-style-type: none;
 }
 
-.lesson {
+.lesson, .link {
     display: inline-block;
 }
 
