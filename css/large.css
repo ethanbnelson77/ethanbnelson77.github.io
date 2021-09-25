@@ -19,3 +19,8 @@
     grid-column: 3;
     grid-row: 1;
 }
+
+p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
