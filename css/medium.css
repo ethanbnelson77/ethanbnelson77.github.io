@@ -1,4 +1,5 @@
 #grid-holder {
+    display:grid;
     grid-template-columns: 45% 45%;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-gap: 15px;
