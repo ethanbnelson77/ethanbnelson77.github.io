@@ -34,3 +34,7 @@ h1, #portal, footer  {
 #mozilla {
     color:lightskyblue;
 }
+
+h2 {
+    text-align: center;
+}
