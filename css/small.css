@@ -1,6 +1,6 @@
 #grid-holder {
     display:grid;
-    grid-template-columns: 95%;
+    grid-template-columns: 100%;
     grid-template-rows: 30px 1fr 30px 1fr 30px 1fr;
     grid-gap: 15px;
 }
