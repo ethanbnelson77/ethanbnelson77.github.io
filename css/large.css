@@ -20,7 +20,7 @@
     grid-row: 1;
 }
 
-p {
+p, a {
     padding-left: 15px;
     padding-right: 15px;
 }

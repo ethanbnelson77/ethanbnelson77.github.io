@@ -5,7 +5,7 @@
     grid-gap: 15px;
 }
 
-p {
+p, a {
     padding-left: 15px;
     padding-right: 15px;
 }
