@@ -24,3 +24,9 @@ p {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+
+#latimes-img {
+    max-width: 45%;
+    text-align: center;
+}
