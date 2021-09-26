@@ -31,11 +31,10 @@ h1, #portal, footer  {
     display: inline-block;
 }
 
-#mozilla {
+#mozilla, .design-link {
     color:lightskyblue;
 }
 
 h2 {
     text-align: center;
 }
-
